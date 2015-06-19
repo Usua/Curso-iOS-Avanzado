@@ -14,7 +14,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        //Ejercicio 1
         println("Control de versiones local")
+        
+        //Ejercicio 2 - Para poder  hacer el commit remoto
+        println("comiteando")
     }
 
     override func didReceiveMemoryWarning() {
